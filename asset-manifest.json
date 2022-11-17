@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-swipe-menu/static/css/main.e9f628f1.css",
+    "main.js": "/react-swipe-menu/static/js/main.327c5d13.js",
+    "static/js/787.30f478d2.chunk.js": "/react-swipe-menu/static/js/787.30f478d2.chunk.js",
+    "index.html": "/react-swipe-menu/index.html",
+    "main.e9f628f1.css.map": "/react-swipe-menu/static/css/main.e9f628f1.css.map",
+    "main.327c5d13.js.map": "/react-swipe-menu/static/js/main.327c5d13.js.map",
+    "787.30f478d2.chunk.js.map": "/react-swipe-menu/static/js/787.30f478d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f628f1.css",
+    "static/js/main.327c5d13.js"
+  ]
+}
